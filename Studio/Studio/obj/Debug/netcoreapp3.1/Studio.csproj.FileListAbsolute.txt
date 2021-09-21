@@ -1,0 +1,13 @@
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/class1/Studio/Studio/Studio/bin/Debug/netcoreapp3.1/Studio.deps.json
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/class1/Studio/Studio/Studio/bin/Debug/netcoreapp3.1/Studio.runtimeconfig.json
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/class1/Studio/Studio/Studio/bin/Debug/netcoreapp3.1/Studio.runtimeconfig.dev.json
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/class1/Studio/Studio/Studio/bin/Debug/netcoreapp3.1/Studio.dll
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/class1/Studio/Studio/Studio/bin/Debug/netcoreapp3.1/Studio.pdb
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/class1/Studio/Studio/Studio/obj/Debug/netcoreapp3.1/Studio.csproj.AssemblyReference.cache
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/class1/Studio/Studio/Studio/obj/Debug/netcoreapp3.1/Studio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/class1/Studio/Studio/Studio/obj/Debug/netcoreapp3.1/Studio.AssemblyInfoInputs.cache
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/class1/Studio/Studio/Studio/obj/Debug/netcoreapp3.1/Studio.AssemblyInfo.cs
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/class1/Studio/Studio/Studio/obj/Debug/netcoreapp3.1/Studio.csproj.CoreCompileInputs.cache
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/class1/Studio/Studio/Studio/obj/Debug/netcoreapp3.1/Studio.dll
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/class1/Studio/Studio/Studio/obj/Debug/netcoreapp3.1/Studio.pdb
+/Users/christineboegemann/Desktop/coding_lessons/LC101/csharp-practice/class1/Studio/Studio/Studio/obj/Debug/netcoreapp3.1/Studio.genruntimeconfig.cache
